@@ -218,28 +218,14 @@ heroku run rails db:migrate
 - Asset compression and minification
 - Caching strategy implementation
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## 👥 Authors
 
-- Your Name - Initial work - [YourGithub](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Your Name - Initial work - [YourGithub](https://github.com/iban-hussain)
 
 ## 📞 Support
 
-For support, email your-email@example.com or create an issue in the GitHub repository.
+For support, email ibanhussain1188@gmail.com
