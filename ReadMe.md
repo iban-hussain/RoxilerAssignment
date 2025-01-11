@@ -224,7 +224,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 👥 Authors
 
-- Your Name - Initial work - [YourGithub](https://github.com/iban-hussain)
+- Your Name - Initial work - [My Github](https://github.com/iban-hussain)
 
 ## 📞 Support
 
